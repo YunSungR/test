@@ -9,6 +9,7 @@
 	</head>
 	<body>
 			<h3>상품 상세 정보 조회</h3>
+			<h3>상품 상세 정보 조회</h3>branch test_sung 수정함
 			<table border="1" width="300">
 				<tr><td>상품번호</td><td>${prd.prdNo }</td></tr>
 				<tr><td>상품명</td><td>${prd.prdName }</td></tr>
